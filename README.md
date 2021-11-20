@@ -22,5 +22,5 @@ by ACM student chapter of my college.
 
 5. (Template_Matching.ipynb) This notebook contains template machine using sift,orb using opencv python.
 
-![testing_image](https://user-images.githubusercontent.com/47865216/142721495-60f54274-2374-4a67-956a-8c3eb9c6cbdf.PNG)
+6. ```scrapy crawl toscrape-footwear```
 
